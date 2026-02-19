@@ -1,8 +1,8 @@
 
 # Selenium TestNG E-Commerce Framework
 
-[![GitHub Actions](https://github.com/lak2020/selenium-java-ui-automation-framework/actions/workflows/selenium-tests.yml/badge.svg)](https://github.com/lak2020/selenium-java-ui-automation-framework/actions)
-[GitHub Actions](https://github.com/lak2020/selenium-java-ui-automation-framework/actions)
+[![GitHub Actions](https://github.com/lak2020/selenium-java-ui--ecommerce-automation-framework/actions/workflows/selenium-tests.yml/badge.svg)](https://github.com/lak2020/selenium-java-ui-ecommerce--automation-framework/actions/actions)
+[GitHub Actions](https://github.com/lak2020/selenium-java-ui-ecommerce--automation-framework/actions)
 
 
 
@@ -10,11 +10,11 @@
 
 Industrial-standard Selenium TestNG hybrid automation framework for [SauceDemo](https://www.saucedemo.com/) with data-driven testing, parallel execution, CI/CD pipeline, and enterprise-level design patterns.
 
-**Repository:** [lak2020/selenium-java-ui-automation-framework](https://github.com/lak2020/selenium-java-ui-automation-framework)
+**Repository:** [lak2020/selenium-java-ui-ecommerce--automation-framework](https://github.com/lak2020/selenium-java-ui-ecommerce--automation-framework)
 
 ## 📊 Allure Report
 
-View the latest test results: [Allure Report](https://lak2020.github.io/selenium-java-ui-automation-framework/9/index.html)
+View the latest test results: [Allure Report](https://lak2020.github.io/selenium-java-ui-ecommerce--automation-framework/3/index.html)
 
 ## 📋 Features
 
@@ -60,8 +60,8 @@ selenium-testng-ecommerce-framework/
 
 ### Clone the repository
 ```bash
-git clone https://github.com/seleniumui/selenium-testng-ecommerce-framework.git
-cd selenium-testng-ecommerce-framework
+git clone https://github.com/lak2020/selenium-java-ui-ecommerce--automation-framework.git
+
 ```
 
 ### Run all tests
