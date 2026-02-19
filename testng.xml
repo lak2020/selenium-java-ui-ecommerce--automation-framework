@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="E-Commerce Test Suite" parallel="none" thread-count="1" verbose="1">
+
+    <!-- Listeners -->
+    <listeners>
+        <listener class-name="com.seleniumui.framework.listeners.TestListener"/>
+        <listener class-name="com.seleniumui.framework.listeners.AnnotationTransformer"/>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+    </listeners>
+
+    <test name="All Tests">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.seleniumui.framework.tests.LoginTest"/>
+            <class name="com.seleniumui.framework.tests.ProductTest"/>
+            <class name="com.seleniumui.framework.tests.CheckoutTest"/>
+            <class name="com.seleniumui.framework.tests.SessionTest"/>
+        </classes>
+    </test>
+
+</suite>
+
