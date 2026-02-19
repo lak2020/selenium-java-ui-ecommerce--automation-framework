@@ -1,8 +1,8 @@
 
 # Selenium TestNG E-Commerce Framework
 
-[![GitHub Actions](https://github.com/lak2020/selenium-java-ui--ecommerce-automation-framework/actions/workflows/selenium-tests.yml/badge.svg)](https://github.com/lak2020/selenium-java-ui-ecommerce--automation-framework/actions/actions)
-[GitHub Actions](https://github.com/lak2020/selenium-java-ui-ecommerce--automation-framework/actions)
+[![GitHub Actions](https://github.com/lak2020/selenium-java-ui-ecommerce--automation-framework/actions/workflows/selenium-tests.yml/badge.svg)](https://github.com/lak2020/selenium-java-ui-ecommerce--automation-framework/actions)
+GitHub Actions: https://github.com/lak2020/selenium-java-ui-ecommerce--automation-framework/actions
 
 
 
